@@ -2,7 +2,7 @@
 title:          Renato Henrique Silva
 bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAscAAAAJDljNmMxMjQxLTVjZjMtNGU2Yi04ZmI3LTQ0NWYyMmQ1NjRiOQ.jpg'
+picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://renatohsilva.github.io
 
